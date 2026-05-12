@@ -1767,24 +1767,23 @@ animation rotate-center
   position: relative; }
   .roister-footer-1 .footer-logo, .roister-footer-2 .footer-logo {
     width: 220px;
-    height: 59px;
     -ms-flex-negative: 0;
     flex-shrink: 0; }
     @media (max-width: 1599.97px) {
       .roister-footer-1 .footer-logo, .roister-footer-2 .footer-logo {
-        width: 200px;
-        height: 50px; } }
+        width: 240px;
+        } }
     @media (max-width: 1399.97px) {
       .roister-footer-1 .footer-logo, .roister-footer-2 .footer-logo {
         width: 180px; } }
     @media (max-width: 991.97px) {
       .roister-footer-1 .footer-logo, .roister-footer-2 .footer-logo {
         width: 140px;
-        height: 30px; } }
+         } }
     @media (max-width: 575.97px) {
       .roister-footer-1 .footer-logo, .roister-footer-2 .footer-logo {
-        width: 100px;
-        height: 26px; } }
+        width: 215px;
+        } }
   .roister-footer-1 .footer-img1, .roister-footer-2 .footer-img1,
   .roister-footer-1 .footer-img2,
   .roister-footer-2 .footer-img2 {
@@ -1887,9 +1886,9 @@ animation rotate-center
         border-right: none; } }
   .roister-footer-1 .copyright-area, .roister-footer-2 .copyright-area {
     border-top: 1px solid var(--white-color);
-    padding: 20px 0px; }
+    padding: 15px 0px; }
   .roister-footer-1 .footer-widget .widget-title, .roister-footer-2 .footer-widget .widget-title {
-    color: var(--white-color);
+    color: var(--primary-color);
     font-family: var(--heading-font);
     font-size: var(--fz-24);
     font-style: normal;
@@ -1908,7 +1907,7 @@ animation rotate-center
       -ms-flex-negative: 0;
       flex-shrink: 0; }
       .roister-footer-1 .footer-widget ul li span i, .roister-footer-2 .footer-widget ul li span i {
-        color: var(--primary-color);
+        color: #fff;
         font-size: var(--fz-18, 18px); }
     .roister-footer-1 .footer-widget ul li a, .roister-footer-2 .footer-widget ul li a {
       color: var(--white-color);
@@ -1995,7 +1994,7 @@ animation rotate-center
     background-color: var(--primary-color); }
     .roister-footer-2 .copyright-area p a {
       color: var(--white-color);
-      font-weight: 700; }
+      font-weight: 500; }
       .roister-footer-2 .copyright-area p a:hover {
         color: var(--dark-color); }
     .roister-footer-2 .copyright-area .copy-right-menu {
